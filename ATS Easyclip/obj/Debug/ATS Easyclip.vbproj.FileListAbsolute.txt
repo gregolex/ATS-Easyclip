@@ -1,0 +1,20 @@
+C:\Users\Greg\documents\visual studio 2012\Projects\ATS Easyclip\ATS Easyclip\bin\Debug\ATS Easyclip.exe.config
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\bin\Debug\ATS Easyclip.exe
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\bin\Debug\ATS Easyclip.pdb
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\bin\Debug\ATS Easyclip.xml
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\obj\Debug\ATS Easyclip.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\obj\Debug\ATS Easyclip.exe
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\obj\Debug\ATS Easyclip.xml
+C:\Users\Greg\Documents\Visual Studio 2012\Projects\ATS Easyclip\ATS Easyclip\obj\Debug\ATS Easyclip.pdb
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\bin\Debug\ATS Easyclip.exe.config
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\obj\Debug\ATS Easyclip.exe
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\obj\Debug\ATS Easyclip.xml
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\obj\Debug\ATS Easyclip.pdb
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\obj\Debug\WindowsApplication1.Form1.resources
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\obj\Debug\WindowsApplication1.Resources.resources
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\obj\Debug\ATS Easyclip.vbproj.GenerateResource.Cache
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\bin\Debug\ATS Easyclip.exe
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\bin\Debug\ATS Easyclip.pdb
+E:\Users\1337\Desktop\ATS Easyclip\ATS Easyclip\bin\Debug\ATS Easyclip.xml
